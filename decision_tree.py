@@ -9,7 +9,7 @@
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
 # dictionaries, lists, and arrays
 
-# importing some Python libraries
+# importing some Python libraries 
 from sklearn import tree
 import matplotlib.pyplot as plt, csv
 db = []
